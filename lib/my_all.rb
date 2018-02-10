@@ -10,7 +10,7 @@ end
 
 if block_return_values.include?(false)
   false
-else 
+else
   true
 end
 end
